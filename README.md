@@ -1,12 +1,24 @@
-# childabuse
-This project will explore the issue of child abuse. 
-Solution: Build an applicatio that parents want to help their child but often they are in a place where they can't and it takes community stepping in to help that child grow and become resilient.
+# Child abuse
+
+# The problem
+This project will explore the issue of child abuse. They may also have emotional and psychological problems, such as anxiety or posttraumatic stress. 
+
+# 5 Sources that discuss child abuse
+* * https://www.familysupportcenter.org/blog-stories/2020/4/15/it-takes-a-village-why-child-abuse-is-a-community-problem
+* * https://www.dcyf.wa.gov/safety/prevent-child-abuse
+* * https://www.statnews.com/2018/07/17/child-abuse-neglect-public-health-issue/
+* * https://www.cde.ca.gov/ls/ss/ap/childabusereportingguide.asp
+* * https://www.healthychildren.org/English/safety-prevention/at-home/Pages/What-to-Know-about-Child-Abuse.aspx
+
+# Proposed solution
+## software application
+Solution: Build an application that parents want to help their child but often they are in a place where they can't and it takes community stepping in to help that child grow and become resilient.
 
 # Classes 
-1. Harming
-2. Crime 
-3. Violence
-4. Physical
+* * Harming
+* * Crime 
+* * Violence
+* * Physical
 
 # Attributes
 Changes in behavoir 
