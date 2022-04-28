@@ -15,17 +15,17 @@ This project will explore the issue of child abuse. They may also have emotional
 Solution: Build an application that doing something or failing to do something that results in harms to a child or puts a child at risk of harm.
 
 # Classes 
+* * Emotional
+* * Neglect
 * * Harming
-* * Crime 
-* * Violence
 * * Physical
 
 # Attributes
 Changes in behavoir 
 
 # Relationship
-Harming- crime
-Crime- violence
-Violence- physical
-Physical- crime
-
+child user - harming
+harming - physical
+physical - emotional
+child user - neglect
+child user - child abuse
