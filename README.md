@@ -12,7 +12,7 @@ This project will explore the issue of child abuse. They may also have emotional
 
 # Proposed solution
 ## software application
-Solution: Build an application that parents want to help their child but often they are in a place where they can't and it takes community stepping in to help that child grow and become resilient.
+Solution: Build an application that doing something or failing to do something that results in harms to a child or puts a child at risk of harm.
 
 # Classes 
 * * Harming
